@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hansel
+# 👋 Hi, I'm Hansel Liebrata
 
 <div align="center">
   
@@ -7,16 +7,17 @@
   🔭 **Currently seeking new opportunities** to drive data-informed decision-making
   
 
-
   
 </div>
 
 ---
+
 ## 💼 About Me
 
 Recent Monash University Computer Science graduate specializing in Data Science with proven expertise in predictive modeling, statistical analysis, and data visualization. I transform complex datasets into actionable insights that drive business impact.
 
 - 🎓 **Bachelor of Computer Science (Data Science)** from Monash University
+- 🎮 **Minor in Games Development** - Unity & Unreal Engine
 - 📊 Built ML models with **85%+ accuracy** across multiple projects
 - 💼 Delivered **40% increase in KPI visibility** and **15% transaction optimization** as Data Analytics Intern
 - 🤖 Expertise in **Machine Learning**, **Business Intelligence**, and **Statistical Analysis**
@@ -43,10 +44,11 @@ Recent Monash University Computer Science graduate specializing in Data Science 
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=fff)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=fff)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +56,7 @@ Recent Monash University Computer Science graduate specializing in Data Science 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 
 ### Cloud & Development Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -75,6 +77,10 @@ Recent Monash University Computer Science graduate specializing in Data Science 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 ---
 
 ## 🤝 Let's Connect!
@@ -93,5 +99,5 @@ I'm always interested in collaborating on innovative projects or discussing oppo
 <div align="center">
   
   **💡 "The best way to predict the future is to create it"**
-
+  
 </div>
