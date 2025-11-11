@@ -93,7 +93,7 @@ I'm always interested in collaborating on innovative projects or discussing oppo
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hansel-liebrata/)
-  [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemrajdhakal.ml@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansel.liebrata@gmail.com)
   
 </div>
 
